@@ -1,4 +1,4 @@
-plugins { id 'com.android.application' }
+plugins { id 'com.android.application' version '8.7.2' }
 android { namespace 'com.pjit.launcher'; compileSdk 35
     defaultConfig { applicationId 'com.pjit.launcher'; minSdk 23; targetSdk 35; versionCode 1; versionName '1.0' }
 }
